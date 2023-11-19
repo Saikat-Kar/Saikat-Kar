@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saikat-Kar
 - 👀 I’m interested in java
-- 🌱 I’m currently learning java and data structure and algorithm
+- 🌱 I’m currently learning Java and MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
